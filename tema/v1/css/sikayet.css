@@ -1,0 +1,22 @@
+.sikayet{
+	border: 1px solid;
+}
+#sikayet_kutusu{
+	margin-top: 20px;
+	margin-left: 50px;
+}
+#baslik{
+	margin-left: 20px;
+}
+textarea{
+	width: 300px;
+	height: 100px;
+}
+#btn_gonder{
+	width: 120px;
+	margin-left: 200px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	color: white;
+	background-color: #212121;
+}

@@ -1,0 +1,27 @@
+#duzenle{
+	width: 110px;
+	border-radius: 10px;
+}
+#kaldir{
+	background-color: red;
+	color: white;
+	width: 110px;
+	border-radius: 10px;
+}
+
+#ekle{
+	width: 110px;
+	border-radius: 10px;
+}
+.kaydet{
+	border-radius: 10px;
+	margin-right: 50px;
+	float: right;
+}
+#kaydet_button{
+	background-color: #8BC34A;
+	color: white;
+	width: 150px;
+	border-radius: 10px;
+
+}

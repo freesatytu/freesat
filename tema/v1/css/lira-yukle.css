@@ -1,0 +1,64 @@
+#kalan{
+	margin:20px;
+	font-size: 26px;
+	border-bottom: 1px dashed;
+}
+
+.yukle{
+	border: 2px solid;
+	width: 100%;
+	height: 80%;
+
+}
+#baslik{
+	color: white;
+	text-align: center;
+}
+#baslik{
+	color: black;
+	margin: 30px;
+	font-size: 20px;
+}
+.colums{
+	width: 200px;
+}
+form{
+
+	margin-top: 40px;
+	background-color: white;
+}
+.row-1{
+	margin: 20px;
+}
+input{
+	height: 30px;
+	width: 300px;
+	border-radius: 5px;
+}
+.row-2{
+	margin: 20px;
+}
+.row-3{
+	margin: 20px;
+}
+.row-4{
+	margin: 20px;
+}
+.row-6{
+	margin: 20px;
+}
+.row-7{
+	margin: 20px;
+}
+.gonder{
+	width: 200px;
+	margin-left: 100px;
+	margin-top: 50px;
+	border-radius: 10px;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	border-collapse: separate;
+
+}
+

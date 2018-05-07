@@ -1,0 +1,32 @@
+
+#baslik{
+    margin-left: 30px;
+    }
+    #kaldir{
+        width: 110px;
+        background-color: yellow;
+        color: black;
+        border-radius: 10px;
+    }
+    td{
+        font-size: 15px;
+    }
+    #ekle{
+        margin-left: 30px;
+    }
+    #numara{
+        width: 200px;
+        height: 30px;
+        border-radius: 8px;
+        border-color: #795548;
+        margin-left: 30px;
+    }
+    #gonder{
+        margin-left: 150px;
+        width: 200px;
+        height: 40px;
+        background-color: black;
+        border-radius: 7px;
+        margin-top: 20px;
+        color: white;
+    }

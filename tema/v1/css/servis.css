@@ -1,0 +1,32 @@
+.servis_islemler{
+	border: 1px solid;
+}
+#baslik{
+	margin-left: 30px;
+}
+#check_list{
+	margin-left: 40px;
+	font-size: 15px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#lists{
+	margin-bottom: 20px;
+}
+#check{
+	margin-left: 10px;
+}
+#custom{
+	margin-left: 30px;
+}
+.gonder{
+	margin-left: 150px;
+	margin-bottom: 30px;
+}
+#btn_gonder{
+	width: 200px;
+	height: 40px;
+	border-radius: 9px;
+	background-color: #4E342E;
+	color: white;
+}

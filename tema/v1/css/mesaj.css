@@ -1,0 +1,55 @@
+.mesaj{
+	width: 100%;
+	border: 1px solid;
+}
+#gelen{
+
+}
+#baslik{
+	font-size: 20px;
+	margin-left: 100px;
+
+}
+textarea{
+	width: 100%;
+	font-size: 12px;
+	height: 300px;
+
+}
+.msj_gonder{
+	width: 100%;
+	background-color: #D7CCC8;
+}
+#gonderilen_mesaj{
+	margin-left: 30px;
+	width: 350px;
+	height: 170px;
+}
+#Label{
+	margin-top: 50px;
+	margin-left: 100px;
+}
+#mobil_no{
+	width: 250px;
+	border-radius: 5px;
+	margin-bottom: 30px;
+	margin-left: 50px;
+	background-color: #90A4AE;
+	border-color: #F4511E;
+}
+#Label1{
+	float: -100px;
+	margin-top: 50px;
+	margin-left: 100px;
+}
+#gonder{
+	margin-left: 150px;
+	width: 200px;
+	height: 50px;
+	margin-bottom: 40px;
+	margin-top: 20px;
+	border-radius: 10px;
+	background-color: #B2DFDB;
+	color: #FF9800;
+	font-size: 18px;
+}

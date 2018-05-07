@@ -1,0 +1,34 @@
+.hat_islemler{
+	border: 1px solid;
+	margin: 20px;
+}
+
+#hatBildir{
+	margin-bottom: 50px;
+	font-size: 20px;
+}
+#numara_degisikligi{
+	border-top: 1px solid;
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+#hat_kapatma{
+	border-top: 1px solid;
+}
+#baslik{
+	margin-top: 20px;
+	margin-left: 30px;
+}
+#alt{
+	margin-top: 30px;
+	font-size: 14px;
+	margin-left: 10px;
+}
+#btn{
+	background-color: green;
+	margin-right: 20px;
+	position: relative;
+	float: right;
+	color: black;
+	width: 200px; 
+}
